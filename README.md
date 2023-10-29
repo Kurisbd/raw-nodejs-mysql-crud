@@ -3,7 +3,7 @@
 
 ## Install this project with npm
 
-```bash
+```
     git clone project <name>
     cd my-project
     npm install
@@ -22,5 +22,5 @@
 - Auth login register
 - User list
 
-## ðŸš€ About Me And Contact Us
+## About Me And Contact Us
 I'm a full stack developer
