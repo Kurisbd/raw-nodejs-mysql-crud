@@ -4,10 +4,10 @@
 ## Install this project with npm
 
 ```
-    git clone project <name>
-    cd my-project
-    npm install
-    npm run project
+git clone project <name>
+cd my-project
+npm install
+npm run project
 ```
 
 ## Tech Stack
